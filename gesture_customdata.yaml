@@ -1,0 +1,6 @@
+train: ../train_data3/images/train/  # train images (relative to 'path') 271 images
+val: ../train_data3/images/val/  # val images (relative to 'path') 92 images
+
+# Classes
+nc: 3  # number of classes
+names: ['ok', 'peace', 'dislike']  # class names
