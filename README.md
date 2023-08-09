@@ -1,2 +1,5 @@
-# INM_705
-Object Detection using Yolov5
+# INM_705 - Deep Learning for Image Analysis
+## "Hand Gesture Recognition using YoloV5 (Object Detection)"
+
+
+
